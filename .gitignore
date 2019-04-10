@@ -9,5 +9,7 @@
 *.njsproj
 *.sln
 *.sw*
-
 *.bat
+*.obj
+*.ncb
+*.vcxproj*
